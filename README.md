@@ -22,21 +22,28 @@
 
 ## Built With
 
-![Python][Python.ico]
-![Pandas][Pandas.ico]
-![TF][TF.ico]
-![SciKit][SciKit.ico]
-![Numpy][Numpy.ico]
+![HTML][HTML.ico]
+![CSS][CSS.ico]
+![Javascript][JS.ico]
 
 
+## App Structure
+
+User begins at Home page and can navigate to any of three mini-games. The games are accessed through the Home page, the only page of the app, by selecting one of the corresponding icon buttons to load its respective game within the defined game area of the Home page. Separate pages are not used to host the games, so accessing them requires navigating sequentially, closing the active game and returning to the Home screen before loading a different one. The sequential-stepped one-page structure of the site intends to evoke more of an interactive narrative feel.
+<br />
 
 
+>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &uarr; &rarr; &rarr; *Frogger*
+><br />
+>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &uarr; 
+><br />
+>Home &rarr; &rarr; &rarr; *Doodle Jump*
+><br />
+>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &darr;
+><br />
+>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &darr; &rarr; &rarr; *Running Man*
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Numpy.ico]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
-[SciKit.ico]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
-[Python.ico]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[Pandas.ico]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
-[WebGL-url]: https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL
-[TF.ico]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
+[HTML.ico]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[CSS.ico]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[JS.ico]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+
