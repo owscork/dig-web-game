@@ -6,7 +6,7 @@
   </a>
   <br />
   
-  $$ \color{gray}landing &ensp;page $$
+  $$ \color{gray}home &ensp;screen $$
   
   <h1 align="center">Supplemental Web Game to Personalization Research  </h1>
 
