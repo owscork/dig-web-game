@@ -1,25 +1,23 @@
 
 
+<h2 align="center"> Interactive Research Supplement </h2>
 
-
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./dig-readme-banner.png" alt="Logo" width="85%" height="auto">
-  </a>
-  <br />
-  
-  $$ \color{gray}home &ensp;screen $$
-  
-  <h1 align="center">Supplemental Web Game to Personalization Research  </h1>
-
-  <p align="center">
+<p align="center">
     Developed a website consisting of three classic arcade game spin-offs themed to be relevant to the topic of my research
     <br />
     <a href="https://github.com/owscork/dig-web-game"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
+
+  <div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="./dig-readme-banner.png" alt="Logo" width="85%" height="auto">
+  </a>
+  <br />
 </div>
+  
+<h1 align="center"> 3 Research-Related Mini-Games Wrapped in a Interactive Experience  </h1>
 
 
 ## Built With
