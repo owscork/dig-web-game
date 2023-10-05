@@ -70,6 +70,24 @@ The app consists of three web games, each styled/modelled off a classic arcade g
 
 <h6>&ensp;&ensp;&ensp;&ensp;Code Snippet</h6>
 
+```js
+/** Populates the rows with obstacles */
+function loop(){
+
+  [...]
+  
+  for (let r = 0; r < rows.length; r++) {
+    const row = rows[r];
+    for (let i = 0; i < row.length; i++) {
+      const sprite = row[i];
+      sprite.x += sprite.speed;
+      sprite.render();
+
+  [...]
+
+}
+  ```
+
 <h4 align="left">Doodle Jump</h4>
 
 <h6>&ensp;&ensp;&ensp;&ensp;Concept</h6>
