@@ -5,7 +5,7 @@
     <img src="https://images.vexels.com/media/users/3/316791/isolated/preview/7bd957a2f9ffe91e3b0d00609200041a-goose-holding-a-baseball-bat.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">DIG 404 Research Supplement</h3>
+  <h3 align="center">Supplemental Web Game on Research</h3>
 
   <p align="center">
     Developed a website consisting of three classic arcade game spin-offs themed to be relevant to the topic of my research
