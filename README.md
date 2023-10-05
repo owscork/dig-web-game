@@ -28,23 +28,23 @@
 
 ## App Overview
 
-#### Concept
+### Concept
 
-#### Structure
+### Structure
 
 User begins at Home page and can navigate to any of three mini-games. The games are accessed through the Home page, the only page of the app, by selecting one of the corresponding icon buttons to load its respective game within the defined game area of the Home page. Separate pages are not used to host the games, so accessing them requires navigating sequentially, closing the active game and returning to the Home screen before loading a different one. The sequential-stepped one-page structure of the site intends to evoke more of an interactive narrative feel.
 <br />
 
-#### Games
+### Games
 The app consists of three web games, each styled/modelled off a classic arcade game and tweaked to be relevant to the themes of my research. Each game was coded using vanilla Javascript, mainly utilizing the canvas element, and without external libraries or Javascript game engines.
 
-###### Frogger
+#### Frogger
 
-###### Doodle Jump
+#### Doodle Jump
 
-###### Running Man
+#### Running Man
 
-#### Art/Graphics
+### Art/Graphics
 
 [HTML.ico]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS.ico]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
