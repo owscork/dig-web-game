@@ -46,6 +46,8 @@ The app consists of three web games, each styled/modelled off a classic arcade g
 
 ### Art/Graphics
 
+***
+
 [HTML.ico]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS.ico]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [JS.ico]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
