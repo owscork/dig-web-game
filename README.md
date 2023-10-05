@@ -48,15 +48,26 @@ User begins at Home page and can navigate to any of three mini-games. The games 
 <br />
 
 ### Games
+<p align="center">
+<img src="./frogger-shot.png" width="250px" height="175px">
+  <img src="./djump-gif.png" width="250px" height="175px">
+  <img src="./runman-shot.png" width="250px" height="175px">
+</p>
+
 The app consists of three web games, each styled/modelled off a classic arcade game and tweaked to be relevant to the themes of my research. Each game was coded using vanilla Javascript, mainly utilizing the canvas element, and without external libraries or Javascript game engines.
 
 #### Frogger
 
+
 #### Doodle Jump
+
+
 
 #### Running Man
 
+
 ### Art/Graphics
+
 
 ***
 
