@@ -35,6 +35,9 @@
 
 ### Structure
 
+User begins at Home page and can navigate to any of three mini-games. The games are accessed through the Home page, the only page of the app, by selecting one of the corresponding icon buttons to load its respective game within the defined game area of the Home page. Separate pages are not used to host the games, so accessing them requires navigating sequentially, closing the active game and returning to the Home screen before loading a different one. The sequential-stepped one-page structure of the site intends to evoke more of an interactive narrative feel.
+<br />
+
 <pre>
 #root
 ├── landing page
@@ -44,26 +47,41 @@
         ├── running man
 </pre>
 
-User begins at Home page and can navigate to any of three mini-games. The games are accessed through the Home page, the only page of the app, by selecting one of the corresponding icon buttons to load its respective game within the defined game area of the Home page. Separate pages are not used to host the games, so accessing them requires navigating sequentially, closing the active game and returning to the Home screen before loading a different one. The sequential-stepped one-page structure of the site intends to evoke more of an interactive narrative feel.
-<br />
-
 ### Games
+
+The app consists of three web games, each styled/modelled off a classic arcade game and tweaked to be relevant to the themes of my research. Each game was coded using vanilla Javascript, mainly utilizing the canvas element, and without external libraries or Javascript game engines.
+
 <p align="center">
-<img src="./frogger-shot.png" width="250px" height="175px">
+  <img src="./frogger-shot.png" width="250px" height="175px">
   <img src="./djump-gif.png" width="250px" height="175px">
   <img src="./runman-shot.png" width="250px" height="175px">
 </p>
 
-The app consists of three web games, each styled/modelled off a classic arcade game and tweaked to be relevant to the themes of my research. Each game was coded using vanilla Javascript, mainly utilizing the canvas element, and without external libraries or Javascript game engines.
 
-#### Frogger
-
-
-#### Doodle Jump
+  $$ \color{gray}frogger  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+  doodle &ensp; jump &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  running &ensp; man $$
 
 
 
-#### Running Man
+<h4 align="left">Frogger</h4>
+
+<h6>&ensp;&ensp;&ensp;&ensp;Concept</h6>
+
+<h6>&ensp;&ensp;&ensp;&ensp;Code Snippet</h6>
+
+<h4 align="left">Doodle Jump</h4>
+
+<h6>&ensp;&ensp;&ensp;&ensp;Concept</h6>
+
+<h6>&ensp;&ensp;&ensp;&ensp;Code Snippet</h6>
+
+
+<h4 align="left">Running Man</h4>
+
+<h6>&ensp;&ensp;&ensp;&ensp;Concept</h6>
+
+<h6>&ensp;&ensp;&ensp;&ensp;Code Snippet</h6>
 
 
 ### Art/Graphics
