@@ -12,11 +12,7 @@
 <h2 align="center"> Web App w/ 3 Arcade Games Themed to Major Research Takeaways </h2>
 
 <p align="center">
-Programmed a website as an accessory to the research paper, an interactive experience for exploring the real-world consequences and situations discovered through research
-    <br />
-    <a href="https://github.com/owscork/dig-web-game"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+Programmed a website as an accessory to the research paper, an interactive experience for exploring the real-world consequences and situations that arise as a result of personalization algorithms
   </p>
 
 
@@ -71,16 +67,8 @@ The app consists of three web games, each styled/modelled off a classic arcade g
 
 ```js
 /** Populates the rows with obstacles */
-function loop(){
 
-  [...]
-  
-  for (let r = 0; r < rows.length; r++) {
-    const row = rows[r];
-    for (let i = 0; i < row.length; i++) {
-      const sprite = row[i];
-      sprite.x += sprite.speed;
-      sprite.render();
+function loop(){
 
   [...]
 
