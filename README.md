@@ -60,17 +60,9 @@ User begins at Home page and can navigate to any of three mini-games. The games 
 
 The app consists of three web games, each styled/modelled off a classic arcade game and tweaked to be relevant to the themes of my research. Each game was coded using vanilla Javascript, mainly utilizing the canvas element, and without external libraries or Javascript game engines.
 
-<p align="center">
-  <img src="./frogger-shot.png" width="250px" height="175px">
-  <img src="./djump-gif.png" width="250px" height="175px">
-  <img src="./runman-shot.png" width="250px" height="175px">
-</p>
-
-
-  $$ \color{gray}frogger  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-  doodle &ensp; jump &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-  running &ensp; man $$
-
+|![frogger](./frogger-shot.png)|![doodle](./djump-gif.png)|![rman](./runman-shot.png)|
+|:-:|:-:|:-:|
+|<sup>Frogger</sup>|<sup>Doodle Jump</sup>|<sup>Running Man</sup>|
 
 
 <h4 align="left">Frogger</h4>
