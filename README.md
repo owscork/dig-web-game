@@ -2,9 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://images.vexels.com/media/users/3/316791/isolated/preview/7bd957a2f9ffe91e3b0d00609200041a-goose-holding-a-baseball-bat.png" alt="Logo" width="120" height="120">
+    <img src="./dig-site-landing-screen.png" alt="Logo" width="80%" height="auto">
   </a>
-
+  <br />
+  
+  $$ \color{gray}landing &ensp;page $$
+  
   <h1 align="center">Supplemental Web Game to Personalization Research  </h1>
 
   <p align="center">
@@ -31,6 +34,15 @@
 ### Concept
 
 ### Structure
+
+<pre>
+#root
+├── landing page
+    └── home page
+        ├── doodle jump
+        ├── frogger
+        ├── running man
+</pre>
 
 User begins at Home page and can navigate to any of three mini-games. The games are accessed through the Home page, the only page of the app, by selecting one of the corresponding icon buttons to load its respective game within the defined game area of the Home page. Separate pages are not used to host the games, so accessing them requires navigating sequentially, closing the active game and returning to the Home screen before loading a different one. The sequential-stepped one-page structure of the site intends to evoke more of an interactive narrative feel.
 <br />
