@@ -29,7 +29,13 @@
 ![Javascript][JS.ico]
 
 
-## Summary
+## About the Project
+
+DIG 404, the digital studies seminar at Davidson, is entirely focused around the progression and completion of one project over the course of the semester. 
+
+Projects are completed independently and center around research that will be conducted on a chosen topic relevant to persuasion architecture. 
+
+The research is outlined and detailled in the required research paper for the project, and is supplemented with a digital "interactive experience" or game relevant to the research topic. Essentially, the interactive experience aims to emphasize or highlight the main takeaways from the research, typically with more pathos.
 
 ## App Overview
 
@@ -37,7 +43,7 @@
 
 ### Structure
 
-User begins at Home page and can navigate to any of three mini-games. The games are accessed through the Home page, the only page of the app, by selecting one of the corresponding icon buttons to load its respective game within the defined game area of the Home page. Separate pages are not used to host the games, so accessing them requires navigating sequentially, closing the active game and returning to the Home screen before loading a different one. The sequential-stepped one-page structure of the site intends to evoke more of an interactive narrative feel.
+User begins at Home page and can navigate to any of three mini-games. The games are accessed through the Home page, the only page of the app, by , selecting one of the corresponding icon buttons to load its respective game within the defined game area of the Home page. Separate pages are not used to host the games, so accessing them requires navigating sequentially, closing the active game and returning to the Home screen before loading a different one. The sequential-stepped one-page structure of the site intends to evoke more of an interactive narrative feel.
 <br />
 
 <pre>
@@ -68,9 +74,9 @@ The app consists of three web games, each styled/modelled off a classic arcade g
 
 <h4 align="left">Frogger</h4>
 
-<h6>&ensp;&ensp;&ensp;&ensp;Concept</h6>
+<h5>&ensp;&ensp;&ensp;&ensp;Concept</h5>
 
-<h6>&ensp;&ensp;&ensp;&ensp;Code Snippet</h6>
+<h5>&ensp;&ensp;&ensp;&ensp;Code Snippet</h5>
 
 ```js
 /** Populates the rows with obstacles */
@@ -92,16 +98,16 @@ function loop(){
 
 <h4 align="left">Doodle Jump</h4>
 
-<h6>&ensp;&ensp;&ensp;&ensp;Concept</h6>
+<h5>&ensp;&ensp;&ensp;&ensp;Concept</h5>
 
-<h6>&ensp;&ensp;&ensp;&ensp;Code Snippet</h6>
+<h5>&ensp;&ensp;&ensp;&ensp;Code Snippet</h5>
 
 
 <h4 align="left">Running Man</h4>
 
-<h6>&ensp;&ensp;&ensp;&ensp;Concept</h6>
+<h5>&ensp;&ensp;&ensp;&ensp;Concept</h5>
 
-<h6>&ensp;&ensp;&ensp;&ensp;Code Snippet</h6>
+<h5>&ensp;&ensp;&ensp;&ensp;Code Snippet</h5>
 
 
 ### Art/Graphics
