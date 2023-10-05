@@ -12,7 +12,7 @@
 <h2 align="center"> Web App w/ 3 Arcade Games Themed to Major Research Takeaways </h2>
 
 <p align="center">
-Programmed a website as an accessory to the research paper, an interactive experience for exploring the real-world consequences and situations that arise as a result of personalization algorithms
+<i> Programmed a website as an accessory to the research paper, an interactive experience for exploring the real-world consequences and situations that arise as a result of personalization algorithms </i>
   </p>
 
 
