@@ -15,6 +15,28 @@
 <i> Programmed a website as an accessory to the research paper, an interactive experience for exploring the real-world consequences and situations that arise as a result of personalization algorithms </i>
   </p>
 
+## Table of contents
+
+* [Built With](#built-with)
+* [About the Project](#about-the-project)
+  + [Context](#context)
+  + [Research Prompt](#research-prompt)
+  + [Deliverables](#deliverables)
+* [App Overview](#app-overview)
+  + [Concept](#concept)
+  + [Structure](#structure)
+  + [Games](#games)
+    + [Frogger](#frogger)
+      + [Concept](#concept)
+      + [Code Snippet](#code-snippet)
+    + [Doodle Jump](#doodle-jump)
+      + [Concept](#concept)
+      + [Code Snippet](#code-snippet)
+    + [Running Man](#running-man)
+      + [Concept](#concept)
+      + [Code Snippet](#code-snippet)
+* [Art/Graphics](#artgraphics)
+
 
 ## Built With
 
@@ -86,6 +108,10 @@ function loop(){
 
 <h5>&ensp;&ensp;&ensp;&ensp;Code Snippet</h5>
 
+```js
+
+
+```
 
 <h4 align="left">Running Man</h4>
 
@@ -93,8 +119,13 @@ function loop(){
 
 <h5>&ensp;&ensp;&ensp;&ensp;Code Snippet</h5>
 
+```js
 
-### Art/Graphics
+
+```
+
+
+## Art/Graphics
 
 
 ***
