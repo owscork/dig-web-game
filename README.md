@@ -27,16 +27,10 @@
   + [Structure](#structure)
   + [Games](#games)
     + [Frogger](#frogger)
-      + [Concept](#concept)
-      + [Code Snippet](#code-snippet)
     + [Doodle Jump](#doodle-jump)
-      + [Concept](#concept)
-      + [Code Snippet](#code-snippet)
-    + [Running Man](#running-man)
-      + [Concept](#concept)
-      + [Code Snippet](#code-snippet)
+    + [Running Man](#running-man) 
 * [Art/Graphics](#artgraphics)
-
+* [Setbacks and Limitations](#setbacks-and-limitations)
 
 ## Built With
 
@@ -86,11 +80,7 @@ The app consists of three web games, each styled/modelled off a classic arcade g
 |<sup>Frogger</sup>|<sup>Doodle Jump</sup>|<sup>Running Man</sup>|
 
 
-<h4 align="left">Frogger</h4>
-
-<h5>&ensp;&ensp;&ensp;&ensp;Concept</h5>
-
-<h5>&ensp;&ensp;&ensp;&ensp;Code Snippet</h5>
+#### Frogger
 
 ```js
 /** Populates the rows with obstacles */
@@ -102,33 +92,28 @@ function loop(){
 }
   ```
 
-<h4 align="left">Doodle Jump</h4>
+#### Doodle Jump
 
-<h5>&ensp;&ensp;&ensp;&ensp;Concept</h5>
-
-<h5>&ensp;&ensp;&ensp;&ensp;Code Snippet</h5>
 
 ```js
 
 
 ```
 
-<h4 align="left">Running Man</h4>
+#### Running Man
 
-<h5>&ensp;&ensp;&ensp;&ensp;Concept</h5>
-
-<h5>&ensp;&ensp;&ensp;&ensp;Code Snippet</h5>
 
 ```js
 
 
 ```
-
 
 ## Art/Graphics
 
 
 ***
+
+## Setbacks and Limitations
 
 [HTML.ico]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [CSS.ico]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
