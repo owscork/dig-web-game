@@ -25,14 +25,19 @@
 
 ## About the Project
 
+### Context
+
 DIG 404, the digital studies seminar at Davidson, is entirely focused around the progression and completion of one project over the course of the semester. 
 
+### Research Prompt
+
 Projects are completed independently and center around research that will be conducted on a chosen topic relevant to persuasion architecture, the concept of making design choices to best "persuade" or influence a user to take a certain action. This is most commonly seen with social media ads today, where ads are personalized to the user depending on their activity history or profile, so they only receive ads for products their profile indicates they would be likely to buy. 
+
+### Project Deliverables
 
 The research is outlined and detailled in the required research paper for the project, and is supplemented with a digital "interactive experience" or game relevant to the research topic. Essentially, the interactive experience aims to emphasize or highlight the main takeaways from the research, typically through the use of more pathos.
 
 ## App Overview
-
 
 ### Concept
 
